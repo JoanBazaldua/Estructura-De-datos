@@ -1,0 +1,2 @@
+En el documento de ejercicios de "métodos recursivos" tome los 6 ejercicios y le agregue las funciones de memoria, tiempo y el cambio de memoria para ver cuanto es lo que usa de memoria estática y memoria dinámica, el tiempo en el que se ejecuta
+Puse un programa más "pesado" como un reloj para ver el cambio de variación en la memoria, es decir cuanto ocupa para cargarse, esto lo hice solo como actividad de duda jajaj, gracias por leer profe
